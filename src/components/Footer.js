@@ -2,7 +2,7 @@
 function Footer() {
     return (
         <footer>
-            <div>  <a href="https://github.com/jamj2000"> &copy; jamj2000 </a> </div>
+            <div>  <a href="https://github.com/DavidSM14"> &copy; esilian </a> </div>
             <div>  2004 </div>
         </footer>
     )
